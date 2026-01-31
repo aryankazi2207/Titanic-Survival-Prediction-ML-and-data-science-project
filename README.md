@@ -149,11 +149,4 @@ Correlation Heatmap
 
 ROC Curves (Validation & Test)
 
-🚀 How to Run
-pip install -r requirements.txt
-jupyter notebook
 
-
-Open:
-
-Prediction_Project-1_Final.ipynb
